@@ -4,4 +4,5 @@ repo = "https://github.com/vboussange/VBoussangeRegistry.git"
 description = "My private registry"
 
 [packages]
+837ac870-fb52-4b0c-9a0e-030f2f36f5ed = { name = "EvoId", path = "E/EvoId" }
 ea05b012-1b06-4aec-a786-2a545e229cd0 = { name = "ParametricModels", path = "P/ParametricModels" }
