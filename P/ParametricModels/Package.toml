@@ -1,0 +1,3 @@
+name = "ParametricModels"
+uuid = "ea05b012-1b06-4aec-a786-2a545e229cd0"
+repo = "https://github.com/vboussange/ParametricModels.jl"
