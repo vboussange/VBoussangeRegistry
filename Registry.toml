@@ -1,0 +1,6 @@
+name = "VBoussangeRegistry"
+uuid = "5adb5d4b-88bd-4b33-a574-e34ae0c57c2a"
+repo = "https://github.com/vboussange/VBoussangeRegistry.git"
+description = "My private registry"
+
+[packages]
