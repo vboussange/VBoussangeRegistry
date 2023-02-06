@@ -6,4 +6,5 @@ description = "My private registry"
 [packages]
 27a201f4-b6a1-4745-b96e-0c27845dca54 = { name = "PiecewiseInference", path = "P/PiecewiseInference" }
 837ac870-fb52-4b0c-9a0e-030f2f36f5ed = { name = "EvoId", path = "E/EvoId" }
+96372a6d-8f12-4b28-95ba-ac697ae6fb10 = { name = "EcoEvoModelZoo", path = "E/EcoEvoModelZoo" }
 ea05b012-1b06-4aec-a786-2a545e229cd0 = { name = "ParametricModels", path = "P/ParametricModels" }
